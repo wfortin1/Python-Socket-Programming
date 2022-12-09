@@ -21,7 +21,6 @@ room_socket = None
 
 direction_list = ['north', 'south', 'west', 'east', 'up', 'down']
 
-
 # List of clients currently in the room.
 
 client_list = []

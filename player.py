@@ -14,9 +14,9 @@ import selectors
 # python3 room.py "kitchen" "A kitchen, there is a study to the west, and an opening to a backyard to the south" "bannana" "apple" "knife" -w "study" -s "backyard"
 # python3 room.py "living" "Living room there is 2 couches and a large glass window. There is a study to the north, and a backyard to the east" "letter" "pen" "pillow" -n "study" -e "backyard"
 # python3 room.py "backyard" "Lot's of open green space, looks like it's fenced off. There is a living room to the west and a kitchen to the north" "ball" "gnome" "bones" -n "kitchen" -w "living"
-# python3 player.py wfortin study
-# python3 player.py potatoman study
-# python3 player.py hydraliske study
+# python3 player.py user1 study
+# python3 player.py user2 study
+# python3 player.py user3 study
 ##############################################
 
 # Discovery server constant
